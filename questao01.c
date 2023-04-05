@@ -6,9 +6,9 @@ int main(){
     float area;
     float perimetro;
     
-    printf("digite a base:\n");
+    printf("digite a base: ");
     scanf("%f", &base);
-    printf("digite a altura:\n");
+    printf("digite a altura: ");
     scanf("%f", &altura);
     
     area = base * altura;
