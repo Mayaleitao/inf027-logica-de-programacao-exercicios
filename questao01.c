@@ -13,7 +13,8 @@ int main(){
     
     area = base * altura;
     perimetro = 2 * (base + altura);
-    printf("%.2f %.2f", area, perimetro);
+    printf("a area do retangulo e: %.2f", area);
+    printf("\no perimetro do retangulo é: %.2f", perimetro);
     
     return 0;
 }
