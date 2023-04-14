@@ -10,8 +10,9 @@ int main(){
         
     area = 3.14 * (raio * raio);
     perimetro = 2 * 3.14 * raio;
+    
     printf("A área da circunferencia é: %.2f", area);
     printf("\nO perímetro da circunferencia é: %.2f", perimetro);
     
-    return 0;
+return 0;
 }

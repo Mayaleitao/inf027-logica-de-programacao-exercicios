@@ -16,5 +16,5 @@ int main(){
     perimetro = lado1 + lado2 + lado3;
     printf("\nO perímetro do triângulo é: %.2f", perimetro);
     
-    return 0;
+return 0;
 }

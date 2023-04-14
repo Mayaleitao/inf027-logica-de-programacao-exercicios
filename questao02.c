@@ -10,8 +10,9 @@ int main(){
         
     area = lado * lado ;
     perimetro = lado * 4;
+    
     printf("a area do quadrado e: %.2f", area);
     printf("\no perimetro do quadrado é: %.2f", perimetro);
     
-    return 0;
+return 0;
 }
